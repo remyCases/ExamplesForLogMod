@@ -4,5 +4,5 @@
 
 # do not include obj and bin folders
 
-*/obj
-*/bin
+obj
+bin

@@ -14,7 +14,7 @@
       <HintPath>..\..\UndertaleModLib.dll</HintPath>
     </Reference>
     <Reference Include="Serilog">
-      <HintPath>..\..\Serilog.dll</HintPath>
+      <HintPath>Serilog.dll</HintPath>
     </Reference>
   </ItemGroup>
   

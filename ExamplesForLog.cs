@@ -4,9 +4,6 @@
 
 using ModShardLauncher;
 using ModShardLauncher.Mods;
-using UndertaleModLib;
-using UndertaleModLib.Models;
-using System.Collections.Generic;
 using Serilog;
 
 namespace ExamplesForLog;
